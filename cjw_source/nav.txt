@@ -1,0 +1,206 @@
+			<nav>
+				<h2 class="screen_out">청정원주요 내비게이션</h2>
+				<ul class="lnb">
+					<li><a href="#">브랜드스토리<span></span></a>
+						<div class="list_container">
+							<div class="center">
+								<div class="list_left">
+									<ul>
+										<li><a href="#">청정원</a></li>
+										<li><a href="#">안주야</a></li>
+										<li><a href="#">츄엔</a></li>
+										<li><a href="#">사부작</a></li>
+										<li><a href="#">휘슬링쿡</a></li>
+									</ul>
+									<ul>
+										<li><a href="#">순창</a></li>
+										<li><a href="#">카레여왕</a></li>
+										<li><a href="#">햇살담은</a></li>
+										<li><a href="#">홍초</a></li>
+										<li><a href="#">요리에한수</a></li>
+									</ul>
+									<ul>
+										<li><a href="#">맛선생</a></li>
+										<li><a href="#">그린스위트</a></li>
+										<li><a href="#">TV/CF</a></li>
+									</ul>
+								</div>
+								<!--브랜드list_left-->
+								<div class="list_right pc">
+									<b>제품 전체보기</b>
+									<a href="#">보러가기<span></span></a>
+								</div>
+							</div>
+							<!--브랜드center_box-->
+						</div>
+						<!--브랜드list_container  -->
+					</li>
+					<!--브랜드스토리-->
+					<li><a href="#">푸드캐스트<span></span></a>
+						<div class="list_container">
+							<div class="center">
+								<div class="list_left">
+									<ul>
+										<li><a href="#">1등급 재료 선택가이드</a></li>
+										<li><a href="#">요리로세계일주</a></li>
+										<li><a href="#">푸드실험실</a></li>
+										<li><a href="#">기본편</a></li>
+									</ul>
+
+									<ul>
+										<li><a href="#">스페셜편</a></li>
+										<li><a href="#">와인푸드페어링</a></li>
+										<li><a href="#">식감자극</a></li>
+										<li><a href="#">청정원이야기</a></li>
+									</ul>
+								</div>
+								<div class="list_right">
+									<b>보틀레시피 입문편</b>
+									<p>소보로 컵밥부터 냉파스타, 샐러드..<br />
+										깨끗한 유리병에 입맛 돋우는<br />
+										음식 레시피를 소개합니다.
+									</p>
+									<a href="#">보러가기<span></span></a>
+								</div>
+							</div>
+							<!--center-->
+						</div>
+						<!--list_container -->
+					</li>
+					<!--푸드캐스트-->
+					<li><a href="#">푸드노하우<span></span></a>
+						<div class="list_container">
+							<div class="center">
+								<div class="list_left">
+									<ul>
+										<li><a href="#">청정원레시피</a></li>
+										<li><a href="#">식탁이 있는 풍경</a></li>
+										<li><a href="#">요리공방</a></li>
+										<li><a href="#">쿠킹클래스</a></li>
+									</ul>
+									<ul>
+										<li><a href="#">노하우KT</a></li>
+										<li><a href="#">냉장고를 채워줘</a></li>
+										<li><a href="#">이달의 식단</a></li>
+									</ul>
+								</div>
+								<div class="list_right">
+									<b>청정원 레시피</b>
+									<p>청정원 쉐프들과 함께하는<br />
+										건강한 요리이야기
+									</p>
+									<a href="#">보러가기<span></span></a>
+								</div>
+							</div>
+							<!--center-->
+						</div>
+						<!--list_container -->
+					</li>
+					<!--푸드노하우-->
+					<li><a href="#">청정원 SNS<span></span></a>
+						<div class="list_container">
+							<div class="center">
+								<div class="list_left">
+									<ul>
+										<li><a href="#">청정원 페이스북</a></li>
+										<li><a href="#">청정원 블로그</a></li>
+									</ul>
+									<ul>
+										<li><a href="#">청정원의 인스타그램</a></li>
+										<li><a href="#">청정원트위터</a></li>
+									</ul>
+								</div>
+								<div class="list_right">
+									<b>청정원 SNS</b>
+									<p class="pc">
+										푸드를 아는 사람들 청정원의 행복이야기를<br />
+										SNS를 통해 전해드립니다!
+									</p>
+									<ul>
+										<li>
+											<a href="#" target="_blank">facebook</a>
+										</li>
+										<li>
+											<a href="#" target="_blank">kakao story</a>
+										</li>
+										<li>
+											<a href="#" target="_blank">Naver blog</a>
+										</li>
+										<li>
+											<a href="#" target="_blank">Twitter</a>
+										</li>
+										<li>
+											<a href="#" target="_blank">Youtube</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+							<!--center-->
+						</div>
+						<!--list_container -->
+					</li>
+					<!--청정원 SNS-->
+					<li>
+						<a href="#">청정원프렌즈<span></span></a>
+						<div class="list_container">
+							<div class="center">
+								<div class="list_left">
+									<ul>
+										<li><a href="#">정원이의 푸드박스</a></li>
+										<li><a href="#">청정원프렌즈 패널</a></li>
+										<li><a href="#">푸드 에디터 톡</a></li>
+										<li><a href="#">청정모임 톡</a></li>
+									</ul>
+									<ul>
+										<li><a href="#">실시간 수다방</a></li>
+										<li><a href="#">아이디어 게시판</a></li>
+										<li><a href="#">청정원 프렌즈 가입하기</a></li>
+									</ul>
+								</div>
+								<div class="list_right">
+									<b>실시간 수다방</b>
+									<p>푸드를 아는 사람들,<br>
+										청정원을 좋아하는 사람들의<br>
+										톡톡 수다방
+									</p>
+									<a href="#">보러가기<span></span></a>
+								</div>
+							</div>
+							<!--center-->
+						</div>
+						<!--list_container-->
+					</li>
+					<!--청정원프렌즈-->
+					<li><a href="#">이벤트<span></span></a>
+						<div class="list_container">
+							<div class="center">
+								<div class="list_left">
+									<ul>
+										<li><a href="#">진행중인 이벤트</a></li>
+										<li><a href="#">출석 이벤트</a></li>
+										<li><a href="#">포인트딜</a></li>
+										<li><a href="#">쿠킹클래스 후기</a></li>
+									</ul>
+									<ul>
+										<li><a href="#">이벤트 당첨스토리</a></li>
+										<li><a href="#">청정원 할인쿠폰</a></li>
+										<li><a href="#">청정원 카카오 플친</a></li>
+									</ul>
+								</div>
+								<div class="list_right">
+									<b>진행중인 이벤트</b>
+									<p class="pc">
+										매월 다채로운 이벤트와<br />
+										문화공연 초대 기회를 준비했습니다!
+									</p>
+									<a href="#">보러가기<span></span></a>
+								</div>
+							</div>
+							<!--center-->
+						</div>
+						<!--list_container -->
+					</li>
+					<!--청정원이벤트-->
+				</ul>
+				<!--lnb-->
+			</nav>
